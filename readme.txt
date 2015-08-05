@@ -1,2 +1,3 @@
-This is the first file to commit to git.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
 
